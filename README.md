@@ -1,4 +1,4 @@
-## [AnyDLBot](https://telegram.dog/AnyDLBot)
+## [KS_DLBot](https://telegram.dog/AnyDLBot)
 ---
 
 An Open Source ALL-In-One Telegram RoBot, that can do lot of things.
